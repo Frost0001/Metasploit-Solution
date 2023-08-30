@@ -5,7 +5,7 @@
 
 $ git clone https://github.com/Frost0001/Metasploit-Solution
 
-$ cd Metasploit-Fix
+$ cd Metasploit-Solution
 
 $ bash metasploit.sh
 
