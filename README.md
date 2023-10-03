@@ -3,11 +3,11 @@
 
 #How To Use..?! 
 
-$ git clone https://github.com/Frost0001/Metasploit-Solution
+$ ``git clone https://github.com/Frost0001/Metasploit-Solution``
 
-$ cd Metasploit-Solution
+$ ``cd Metasploit-Solution``
 
-$ bash metasploit.sh
+$ ``bash metasploit.sh``
 
 $ ``msfconsole``
 
