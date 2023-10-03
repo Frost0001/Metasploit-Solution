@@ -9,7 +9,7 @@ $ cd Metasploit-Solution
 
 $ bash metasploit.sh
 
-$ msfconsole
+$ ``msfconsole``
 
 :- نحن غير مسؤولين عن اي استعمال فاحش
 
